@@ -1,5 +1,3 @@
-# BikeSharingAssignment
-
 # Project Name
 > Bike Sharing Assignment
 
